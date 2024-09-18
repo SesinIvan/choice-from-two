@@ -15,5 +15,6 @@ This tool allows you to:
 - Compare one picture of different variations or versions to choose the best one
 - Compare different pictures (or memes) to choose the best one
 
+Workflow:
 1. Select any folder in the system where pictures of format: png, jpeg, jpg are located
 2. Choose a picture from a pair of two until a window appears indicating the winner.
